@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Испытай удачу!</string>
+    <string name="button_text">Принять!</string>
+    <string name="textField_text">Угадайте число(1-100)</string>
+    <string name="editText_text">Введите ваше число сюда:</string>
+    <string name="color">Изменить цвет</string>
+    <string name="language">О приложении</string>
+    <string name="large_input">Перебор</string>
+    <string name="small_input">Недолет</string>
+    <string name="game_end">Поздравления, вы победили.</string>
+    <string name="play_again">Играть еще</string>
+</resources>

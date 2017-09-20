@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Lab_1</string>
+    <string name="app_name">Try your luck!</string>
+    <string name="button_text">Confirm!</string>
+    <string name="textField_text">Try to guess number(1-100)</string>
+    <string name="editText_text">Enter your number here:</string>
+    <string name="color">Change style</string>
+    <string name="language">About it</string>
+    <string name="large_input">Overmuch</string>
+    <string name="small_input">Too few</string>
+    <string name="game_end">Gratz, you won!</string>
+    <string name="play_again">Play again</string>
 </resources>
